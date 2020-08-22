@@ -12,7 +12,7 @@ function angle(){
     textSize(30)
     color('black')
     text('pan: ' + p.pan , 30, 450)
-
+    //dnfjbhjd
   }
   catch(err){console.log(err)}
 }
